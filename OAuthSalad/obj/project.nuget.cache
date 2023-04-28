@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "O0AjLWz8QCc1zQ8BgdkQwxHNbvNU0qxqb+GipT//K1Og1XSmlC7+z6p+L1A58W7hJBoojFzV6WiGmI/3i1M71Q==",
+  "success": true,
+  "projectFilePath": "/home/fernando/workspace/study/dotnet/OAuthSalad/OAuthSalad/OAuthSalad.csproj",
+  "expectedPackageFiles": [
+    "/home/fernando/.nuget/packages/microsoft.aspnetcore.openapi/7.0.2/microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
+    "/home/fernando/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/fernando/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/fernando/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/fernando/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/fernando/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/fernando/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
